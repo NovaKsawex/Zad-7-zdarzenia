@@ -1,0 +1,14 @@
+* {
+    color: #ff9000;
+}
+
+body {
+    background-color: #222b45;
+}
+
+#kontener {
+    width: 50px;
+    height: 50px;
+    font-size: 18px;
+    border: white 1px solid;
+}
